@@ -1,0 +1,28 @@
+name: u
+favicon: null
+layout_spectrum: 0.3234441983513534
+typography_spectrum: 0.449894648976624
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9326543414499611
+  lightness: 0.3969539038371295
+  saturation: 0.5837538486812264
+  rhythmicContrast: 0.7959774977061898
+purpose: []
